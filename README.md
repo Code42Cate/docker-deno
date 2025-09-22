@@ -1,4 +1,4 @@
-## Deno API
+## Deno API Sample
 
 A simple HTTP server build with TypeScript and Deno as a runtime to serve a simple JSON response. This is for Docker's [Deno Language Guide](https://docs.docker.com/guides/deno/).
 
